@@ -12,5 +12,6 @@ Para poder fazer o deploy eis aqui alguns pré requesitos que você precisa ter
 * Uma conta gratuita no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 * Uma aplicação com Webflux, se quiser usar a que fizemos no último artigo pode usar :D
 
-
-
+# :house: Para rodar a aplicação Localmente
+`mvn clean install`
+E rode a aplicação com `localhost:8080`
