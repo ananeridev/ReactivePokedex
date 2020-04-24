@@ -1,0 +1,9 @@
+com\pokedex\RestApiPokedex\PokedexRouter.class
+com\pokedex\RestApiPokedex\controller\PokedexController.class
+com\pokedex\RestApiPokedex\ReactivePokedexApplication.class
+com\pokedex\RestApiPokedex\services\PokedexService.class
+com\pokedex\RestApiPokedex\PokedexHandler.class
+com\pokedex\RestApiPokedex\document\Pokedex.class
+com\pokedex\RestApiPokedex\services\PokedexServiceImplem.class
+com\pokedex\RestApiPokedex\repository\PokedexRepository.class
+com\pokedex\RestApiPokedex\DummyData.class
